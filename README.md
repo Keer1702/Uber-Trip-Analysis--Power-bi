@@ -29,6 +29,14 @@ The report is based on two main tables:
 4. Explore the different report pages and visuals.
 
 ## Insights Generated
+- **Top Payment Method:** Most users (67%) paid using **Uber Pay**, followed by **Cash (32%)**.
+- **Trip Timing:** 80.5% of the trips occurred during the **day**, while only 19.4% occurred at night.
+- **Most Booked Vehicle:** **UberX** leads with **38.7K bookings**, followed by UberXL and Uber Green.
+- **Highest Booking Value:** UberX also generated the highest total booking value at **$5.83M**.
+- **Most Frequent Pickup Location:** **Penn Station / Madison Sq West**.
+- **Most Frequent Drop-Off Point:** **Upper East Side North**.
+- **Farthest Trip Recorded:** **Lower East Side → Crown Heights North (144.1 miles)**.
+- **Location Preference:** Users preferred UberX for pickups across locations, with 39K rides.
 - **Peak Ride Hours:** The highest number of bookings occur between **12 PM and 6 PM**, with a peak around **3 PM**.
 - **Low Activity Period:** Very few bookings take place between **2 AM and 5 AM**, indicating low ride demand at night.
 - **Most Active Days:** **Saturday and Sunday** recorded the highest number of total bookings, with **19.2K** on Sunday.
